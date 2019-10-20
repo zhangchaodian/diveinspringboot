@@ -1,0 +1,4 @@
+# Initializers
+org.springframework.context.ApplicationContextInitializer=\
+com.imooc.diveinspringboot.context.HelloWorldApplicationContextInitializer,\
+com.imooc.diveinspringboot.context.AfterHelloWorldApplicationContextInitializer
